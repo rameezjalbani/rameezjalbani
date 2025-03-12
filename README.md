@@ -55,8 +55,5 @@ Working on Following technologies. 🚀
 
 
   
-
-
-### 📫 How to reach me?
-
- - Connect with me on [LinkedIn](http://www.linkedin.com/in/rameezahmed25) 👨🏻‍💻
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/rameezahmed25)
